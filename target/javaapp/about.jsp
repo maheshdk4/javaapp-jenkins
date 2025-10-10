@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>This is about page</h1>
-<h3>This is Mahesh D K Change on 10 OCT 2025 </h3>
+<h6>This is about page</h6>
+<h6>This is Mahesh D K Change on 10 OCT 2025 </h6>
 </body>
 </html>
